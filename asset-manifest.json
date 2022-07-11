@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/system/static/css/main.b4d6e9ed.chunk.css",
-    "main.js": "/system/static/js/main.921dafbf.chunk.js",
-    "main.js.map": "/system/static/js/main.921dafbf.chunk.js.map",
+    "main.js": "/system/static/js/main.85261524.chunk.js",
+    "main.js.map": "/system/static/js/main.85261524.chunk.js.map",
     "runtime-main.js": "/system/static/js/runtime-main.1a3ff6c7.js",
     "runtime-main.js.map": "/system/static/js/runtime-main.1a3ff6c7.js.map",
     "static/css/2.038361d8.chunk.css": "/system/static/css/2.038361d8.chunk.css",
-    "static/js/2.05eb632c.chunk.js": "/system/static/js/2.05eb632c.chunk.js",
-    "static/js/2.05eb632c.chunk.js.map": "/system/static/js/2.05eb632c.chunk.js.map",
+    "static/js/2.6d204ccf.chunk.js": "/system/static/js/2.6d204ccf.chunk.js",
+    "static/js/2.6d204ccf.chunk.js.map": "/system/static/js/2.6d204ccf.chunk.js.map",
     "index.html": "/system/index.html",
     "static/css/2.038361d8.chunk.css.map": "/system/static/css/2.038361d8.chunk.css.map",
     "static/css/main.b4d6e9ed.chunk.css.map": "/system/static/css/main.b4d6e9ed.chunk.css.map",
-    "static/js/2.05eb632c.chunk.js.LICENSE.txt": "/system/static/js/2.05eb632c.chunk.js.LICENSE.txt",
+    "static/js/2.6d204ccf.chunk.js.LICENSE.txt": "/system/static/js/2.6d204ccf.chunk.js.LICENSE.txt",
     "static/media/001-tienda.7949a4f1.svg": "/system/static/media/001-tienda.7949a4f1.svg",
     "static/media/002-computadora-portatil.f313c568.svg": "/system/static/media/002-computadora-portatil.f313c568.svg",
     "static/media/003-analitica.69d028d8.svg": "/system/static/media/003-analitica.69d028d8.svg",
@@ -54,6 +54,7 @@
     "static/media/impresora.042042be.png": "/system/static/media/impresora.042042be.png",
     "static/media/login-lg.65ad357f.png": "/system/static/media/login-lg.65ad357f.png",
     "static/media/metodo-de-pago.291c12d7.png": "/system/static/media/metodo-de-pago.291c12d7.png",
+    "static/media/orden.66eee40f.png": "/system/static/media/orden.66eee40f.png",
     "static/media/reporte.4bc3b1bf.png": "/system/static/media/reporte.4bc3b1bf.png",
     "static/media/tarjeta-de-credito.55da6ee7.png": "/system/static/media/tarjeta-de-credito.55da6ee7.png",
     "static/media/units.02db9bdf.png": "/system/static/media/units.02db9bdf.png"
@@ -61,8 +62,8 @@
   "entrypoints": [
     "static/js/runtime-main.1a3ff6c7.js",
     "static/css/2.038361d8.chunk.css",
-    "static/js/2.05eb632c.chunk.js",
+    "static/js/2.6d204ccf.chunk.js",
     "static/css/main.b4d6e9ed.chunk.css",
-    "static/js/main.921dafbf.chunk.js"
+    "static/js/main.85261524.chunk.js"
   ]
 }
