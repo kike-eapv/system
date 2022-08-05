@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/system/static/css/main.b4d6e9ed.chunk.css",
-    "main.js": "/system/static/js/main.c127fc37.chunk.js",
-    "main.js.map": "/system/static/js/main.c127fc37.chunk.js.map",
+    "main.css": "/system/static/css/main.f0849a17.chunk.css",
+    "main.js": "/system/static/js/main.53a01762.chunk.js",
+    "main.js.map": "/system/static/js/main.53a01762.chunk.js.map",
     "runtime-main.js": "/system/static/js/runtime-main.1a3ff6c7.js",
     "runtime-main.js.map": "/system/static/js/runtime-main.1a3ff6c7.js.map",
-    "static/css/2.038361d8.chunk.css": "/system/static/css/2.038361d8.chunk.css",
-    "static/js/2.6d204ccf.chunk.js": "/system/static/js/2.6d204ccf.chunk.js",
-    "static/js/2.6d204ccf.chunk.js.map": "/system/static/js/2.6d204ccf.chunk.js.map",
+    "static/css/2.aae320d2.chunk.css": "/system/static/css/2.aae320d2.chunk.css",
+    "static/js/2.37ab669b.chunk.js": "/system/static/js/2.37ab669b.chunk.js",
+    "static/js/2.37ab669b.chunk.js.map": "/system/static/js/2.37ab669b.chunk.js.map",
     "index.html": "/system/index.html",
-    "static/css/2.038361d8.chunk.css.map": "/system/static/css/2.038361d8.chunk.css.map",
-    "static/css/main.b4d6e9ed.chunk.css.map": "/system/static/css/main.b4d6e9ed.chunk.css.map",
-    "static/js/2.6d204ccf.chunk.js.LICENSE.txt": "/system/static/js/2.6d204ccf.chunk.js.LICENSE.txt",
+    "static/css/2.aae320d2.chunk.css.map": "/system/static/css/2.aae320d2.chunk.css.map",
+    "static/css/main.f0849a17.chunk.css.map": "/system/static/css/main.f0849a17.chunk.css.map",
+    "static/js/2.37ab669b.chunk.js.LICENSE.txt": "/system/static/js/2.37ab669b.chunk.js.LICENSE.txt",
     "static/media/001-tienda.7949a4f1.svg": "/system/static/media/001-tienda.7949a4f1.svg",
     "static/media/002-computadora-portatil.f313c568.svg": "/system/static/media/002-computadora-portatil.f313c568.svg",
     "static/media/003-analitica.69d028d8.svg": "/system/static/media/003-analitica.69d028d8.svg",
@@ -40,6 +40,7 @@
     "static/media/1.0c395f73.png": "/system/static/media/1.0c395f73.png",
     "static/media/2.cd299c8d.png": "/system/static/media/2.cd299c8d.png",
     "static/media/styles.css": "/system/static/media/Klavika.e6dde48c.ttf",
+    "static/media/Microsoft-Excel-Logo.47c96f8d.png": "/system/static/media/Microsoft-Excel-Logo.47c96f8d.png",
     "static/media/capas.7fb6a848.png": "/system/static/media/capas.7fb6a848.png",
     "static/media/cartera.d9b4a908.png": "/system/static/media/cartera.d9b4a908.png",
     "static/media/cheque-bancario.068558e0.png": "/system/static/media/cheque-bancario.068558e0.png",
@@ -56,14 +57,18 @@
     "static/media/metodo-de-pago.291c12d7.png": "/system/static/media/metodo-de-pago.291c12d7.png",
     "static/media/orden.66eee40f.png": "/system/static/media/orden.66eee40f.png",
     "static/media/reporte.4bc3b1bf.png": "/system/static/media/reporte.4bc3b1bf.png",
+    "static/media/300.css": "/system/static/media/roboto-vietnamese-300-normal.32fc45a3.woff2",
+    "static/media/400.css": "/system/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2",
+    "static/media/500.css": "/system/static/media/roboto-vietnamese-500-normal.d8642a3d.woff2",
+    "static/media/700.css": "/system/static/media/roboto-vietnamese-700-normal.3425a701.woff2",
     "static/media/tarjeta-de-credito.55da6ee7.png": "/system/static/media/tarjeta-de-credito.55da6ee7.png",
     "static/media/units.02db9bdf.png": "/system/static/media/units.02db9bdf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1a3ff6c7.js",
-    "static/css/2.038361d8.chunk.css",
-    "static/js/2.6d204ccf.chunk.js",
-    "static/css/main.b4d6e9ed.chunk.css",
-    "static/js/main.c127fc37.chunk.js"
+    "static/css/2.aae320d2.chunk.css",
+    "static/js/2.37ab669b.chunk.js",
+    "static/css/main.f0849a17.chunk.css",
+    "static/js/main.53a01762.chunk.js"
   ]
 }
